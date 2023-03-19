@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: green;
+}
+#schoolimg{
+    width: 300px;
+    height: 300px;
+}
+.travel-maindiv{
+    border: 1px solid lightgray;
+}
+.travel-maindiv img{
+    width: 100%;
+}
+.travel-maindiv h5 , .travel-maindiv p{
+    color: white;
+    margin: 20px;
+}
